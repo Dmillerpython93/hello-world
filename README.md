@@ -1,4 +1,4 @@
 # hello-world
-just another repository
+just another repository.
 hi world!
- my name is Dustin. I'm working towards learning python and becoming a developer.
+My name is Dustin. I'm working towards learning python and becoming a developer.
